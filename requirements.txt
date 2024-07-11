@@ -1,0 +1,39 @@
+########################################
+# DEFAULT CONFIGURATION
+########################################
+# GENERAL
+# openpyxl==3.0.6
+virtualenv
+
+# DATA / IA
+# pandas
+# numpy
+# scipy
+# xlrd
+# scikit-learn
+
+# VISUALISATION
+# matplotlib
+# plotly
+# pandas-profiling
+
+# DOC
+# Sphinx
+# sphinx-rtd-theme
+
+# TEST
+pytest
+# pytest-cov
+# coverage
+
+# FORMAT
+# black
+
+# LIBRAIRIES
+# wheel
+# setuptools
+# twine
+
+########################################
+# PROJECT SPECIFIC ADD-ONS
+########################################
